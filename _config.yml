@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Renaissance Honcho"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "a menagerie of brain droppings including recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, and more!
+twitter_username: ren_honcho"
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
