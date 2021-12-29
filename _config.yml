@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Renaissance Honcho 
 email: admin@renhoncho.net
-description: a menagerie of brain droppings including recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, and more!
+description: a menagerie of brain droppings including recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, & more!
+
 twitter_username: ren_honcho
 github_username: renaissance-honcho
 minimal_mistakes_skin: dark
