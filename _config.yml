@@ -58,8 +58,8 @@ plugins:
 author:
   name   : "Renaissance Honcho"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "a menagerie of brain droppings including recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, and more!
-twitter_username: ren_honcho"
+  bio    : "recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, & more; a menagerie of assorted brain droppings"
+  twitter_username : "ren_honcho"
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
