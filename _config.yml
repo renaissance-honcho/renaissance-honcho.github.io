@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Renaissance Honcho 
 email: admin@renhoncho.net
-description: a menagerie of brain droppings including recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, & more!
+description: recipes, reviews, reading, gaming, music, astronomy, mycology, photography, horticulture, writing, and more
 
 twitter_username: ren_honcho
 github_username: renaissance-honcho
@@ -58,8 +58,20 @@ plugins:
 author:
   name   : "Renaissance Honcho"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "recipes, reviews, gardening, gaming, music, mycology, photography, writing, reading, & more; a menagerie of assorted brain droppings"
+  bio    : "recipes, reviews, reading, gaming, music, astronomy, mycology, photography, horticulture, writing, and more"
   twitter_username : "ren_honcho"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://renhoncho.net"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ren_honcho"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
+
+footer:
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
@@ -70,21 +82,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/renaissance-honcho"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
-
-footer:
-  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ren_honcho"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/renaissance-honcho"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
