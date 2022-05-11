@@ -1,6 +1,6 @@
 ---
 title: "Ah hello, here we world again"
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 categories:
   - writing
   - thinking
