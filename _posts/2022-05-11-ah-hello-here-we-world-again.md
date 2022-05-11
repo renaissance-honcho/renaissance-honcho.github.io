@@ -14,6 +14,10 @@ Here we go again. I've started a number of blogs, and all of them have ended the
 
 <!--more-->
 
+```yaml
+excerpt_separator: "<!--more-->"
+```
+
 I think I have unintentionally associated all my prior writing attempts to other (more *real or important*) projects. They were supplemental; places to showcase things of actual interest. 
 
 With some distance, I see a couple problems with this approach. First, I rarely finish what I start. Second, it couples my enjoyment of writing to the success of some other venture. I'm afraid the first problem can't be helped, but connecting the dots on the second one has led me to the conclusion that a blog can exist in service of itself.
