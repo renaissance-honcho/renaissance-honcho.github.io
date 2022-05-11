@@ -1,19 +1,18 @@
 ---
-title: "Ah hello, here we world again"
+title: "Hello, World!"
 excerpt_separator: "<!--more-->"
 categories:
-  - writing, thinking
+  - writing
+  - thinking
 tags:
   - meta
 published: true
 ---
 
+
 Here we go again. I've started a number of blogs, and all of them have ended the same way: neglected, outdated sources of stress, unceremoniously deleted years after a final post promising to update them more frequently. Using history as a guide, it's safe to assume this one might suffer the same fate. However, this blog has something new and special going for it: an explicit *lack* of focus.
 
 <!--more-->
-
-```yaml
-excerpt_separator: "<!--more-->"
 
 I think I have unintentionally associated all my prior writing attempts to other (more *real or important*) projects. They were supplemental; places to showcase things of actual interest. 
 
