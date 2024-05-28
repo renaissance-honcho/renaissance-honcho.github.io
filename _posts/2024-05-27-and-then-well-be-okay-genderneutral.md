@@ -5,7 +5,8 @@ categories:
   - writing
   - thinking
 tags:
-  - shortstory
+  - fiction
+  - wisdom
 published: true
 ---
 
