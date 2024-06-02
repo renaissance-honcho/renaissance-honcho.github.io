@@ -1,5 +1,5 @@
 ---
-title: "and then we'll be okay (gender-neutral)"
+title: "and then we'll be okay (edited)"
 excerpt_separator: <!--more-->
 categories:
   - writing
