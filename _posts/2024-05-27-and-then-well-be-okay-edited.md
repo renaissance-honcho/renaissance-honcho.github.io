@@ -6,6 +6,7 @@ categories:
 tags:
   - fiction
   - wisdom
+  - short_story
 published: false
 ---
 
