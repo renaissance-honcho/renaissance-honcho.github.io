@@ -13,6 +13,7 @@ published: true
 When YouTuber/author `exurb1a` posted a short story titled [and then we'll be okay](https://youtu.be/7g1pmHSWHe0) the story struck me, and I immediately knew it would be with me for a long time. I still find it to be a beautiful and comforting story, but I've always wanted a text version which:
 - does not specify the protagonist's gender, and
 - is slightly more suitable for children (within reason)
+
 In 5 years I still haven't stumbled across one, so -- with great respect for the original material -- I'm chipping away at it myself. 
 
 
