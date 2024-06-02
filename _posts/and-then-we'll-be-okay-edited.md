@@ -6,7 +6,7 @@ categories:
 tags:
   - fiction
   - wisdom
-published: true
+published: false
 ---
 
 When YouTuber/author `exurb1a` posted a short story titled [and then we'll be okay](https://youtu.be/7g1pmHSWHe0), the story hit me hard and I immediately knew it would remain important to me for some time. I still find it to be a beautiful, comforting story and I've always wanted a text version that does not specify the protagonist's gender. 5 years later and I still haven't stumbled across one, so with great respect for the original material, I made one myself, presented with as few meaningful alterations as possible. 
