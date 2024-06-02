@@ -6,10 +6,13 @@ categories:
 tags:
   - fiction
   - wisdom
-published: true
+published: false
 ---
 
-When YouTuber/author `exurb1a` posted a short story titled [and then we'll be okay](https://youtu.be/7g1pmHSWHe0), the story hit me hard and I immediately knew it would remain important to me for some time. I still find it to be a beautiful, comforting story and I've always wanted a text version that does not specify the protagonist's gender. 5 years later and I still haven't stumbled across one, so with great respect for the original material, I made one myself, presented with as few meaningful alterations as possible. 
+When YouTuber/author `exurb1a` posted a short story titled [and then we'll be okay](https://youtu.be/7g1pmHSWHe0) the story struck me, and I immediately knew it would be with me for a long time. I still find it to be a beautiful and comforting story, but I've always wanted a text version which:
+- does not specify the protagonist's gender, and
+- is slightly more suitable for children (within reason)
+In 5 years I still haven't stumbled across one, so -- with great respect for the original material -- I'm chipping away at it myself. 
 
 
 <!--more-->
@@ -17,12 +20,11 @@ When YouTuber/author `exurb1a` posted a short story titled [and then we'll be ok
 
 
 ## and then we'll be okay
-### by exurb1a
+*by [exurb1a](https://www.youtube.com/@Exurb1a)*
 
 At the foot of the last mountain sat the last village, and in the last village lived Tao. It was Tao’s birthday. 
 
 While they were working the corn, their friend Samuel shouted for them to come quick. Tao ran to the edge of the village where the Death Barrier was, and beyond the Death Barrier was their father, lying on the ground. Tao ran to their father. He wasn’t breathing. Tao dragged the old man over the Death Barrier, and the village doctor checked their father over. The doctor said, “I’m sorry, he’s dead. The Snake did this.”
-
 
 The next day, the village folk came to Tao’s house and said, “isn’t it a shame,” “sorry for your loss,” and so on, and Tao thanked them, and… then they were alone, again. Tao hoped they would get good at being alone soon. That night, they watched the Great Mountain, glowing with the light and madness of the New Gods. Who knew what the were doing up there? 
 
